@@ -1,4 +1,4 @@
-import {mount} from "packages/marketing/MarketingApp";
+import {mount} from "marketing/MarketingApp";
 import React, {useEffect, useRef} from "react";
 
 export default () => {
